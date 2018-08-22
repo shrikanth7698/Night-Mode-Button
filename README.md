@@ -99,6 +99,11 @@ And then in your Activity or fragment
         
 ```
 
+### TODO
+1. Color Customization
+2. Animation Speed
+3. Add Confetti effect
+
 ## License
 
 ```
